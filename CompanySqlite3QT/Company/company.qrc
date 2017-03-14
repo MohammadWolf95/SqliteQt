@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>forms/company.ui</file>
+    </qresource>
+</RCC>
